@@ -13,12 +13,12 @@
     "env": {
       "API_ID": {
         "description": " ضـع ايبي ايدي احصل علية من هنا https://my.telegram.org",
-        "value": "12664498",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": " ضـع ايبي هاش احصل علية من هنا https://my.telegram.org",
-        "value": "c1267cbd742729575b284495dfd9f068",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
